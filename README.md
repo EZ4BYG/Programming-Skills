@@ -10,7 +10,8 @@
 
 ## 绘图
 
-- [#1](https://github.com/EZ4BYG/Programming-Skills/tree/main/%231) &nbsp; 在python、jupyter和matlab中实现动态二维矩阵的绘制
+- [#1](https://github.com/EZ4BYG/Programming-Skills/tree/main/%231) &nbsp; 在Python、Jupyter和Matlab中实现动态二维矩阵的动态绘制
+- [#2](https://github.com/EZ4BYG/Programming-Skills/tree/main/%232) &nbsp; Python中使用Matplotlib绘图的标准格式
 
 ## 技巧
 
@@ -23,7 +24,8 @@
 
 # Plotting
 
-- [#1](https://github.com/EZ4BYG/Programming-Skills/tree/main/%231) &nbsp; Plotting a dynamically changing 2D matrix in Python, Jupyter, and MATLAB
+- [#1](https://github.com/EZ4BYG/Programming-Skills/tree/main/%231) &nbsp; Plotting a dynamically changing 2D matrix in Python, Jupyter, and Matlab
+- [#2](https://github.com/EZ4BYG/Programming-Skills/tree/main/%232) &nbsp; The standard format for plotting with Matplotlib in Python
 
 # Tricks
 
