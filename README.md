@@ -10,7 +10,7 @@
 
 ## 绘图
 
-- #1 &nbsp; 在python、jupyter和matlab中实现动态二维矩阵的绘制
+- [#1](https://github.com/EZ4BYG/Programming-Skills/tree/main/%231) &nbsp; 在python、jupyter和matlab中实现动态二维矩阵的绘制
 
 ## 技巧
 
@@ -23,7 +23,7 @@
 
 # Plotting
 
-- #1 &nbsp; Plotting a dynamically changing 2D matrix in Python, Jupyter, and MATLAB
+- [#1](https://github.com/EZ4BYG/Programming-Skills/tree/main/%231) &nbsp; Plotting a dynamically changing 2D matrix in Python, Jupyter, and MATLAB
 
 # Tricks
 
