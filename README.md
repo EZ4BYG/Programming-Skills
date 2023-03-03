@@ -4,18 +4,27 @@
   <a href="#english">English</a>
 </div>
 
-<!-- ENGLISH VERSION -->
+<!-- Chinese VERSION -->
 
-<h1 id="中文"> </h1>   <!--! 中文版开始的标题。 -->
+<h1 id="中文">编程技巧记录 </h1>   <!--!  -->
 
-# 编程技巧记录
+## 绘图
 
-测试
+- #1 &nbsp; 在python、jupyter和matlab中实现动态二维矩阵的绘制
 
-<!-- FRENCH VERSION -->
+## 技巧
 
-<h1 id="english">Ceci est la version française du contenu. </h1>
+- #2 &nbsp; python中实现colorbar高度和图像宽度一致
 
-# Programming skills recording
 
-test
+<!-- English VERSION -->
+
+<h1 id="english">Programming skills recording </h1>
+
+# Plotting
+
+- #1 &nbsp; Plotting a dynamically changing 2D matrix in Python, Jupyter, and MATLAB
+
+# Tricks
+
+- #2 &nbsp; Aligning the height of the colorbar with the width of an image in Python
