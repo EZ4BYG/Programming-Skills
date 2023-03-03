@@ -26,4 +26,12 @@
 
 ## The standard format for plotting with Matplotlib in Python
 
-test
+Plotting can be simple or complex. Standard plotting format allows for a variety of specific and precise settings. In this example, a 2D rectangle matrix is plotted using a standard format, including settings for a title, axes, axes' ticks, display and final save. 
+
+The standard plotting format is: **fig, ax = plt.subplots()** &nbsp; Using 'fig' and 'ax' together to plot a figure. A brief explanation is below:
+
+- plt.subplots(): Create a canvas (fig) and axis (ax). The following plotting will be completed by parameters 'fig' and 'ax'
+- fig: Control all elements in the canvas. We usually use it to add a new axis (fig.add_axes) and a colorbar (fig.colorbar)
+- ax: Control all elements in the original axis' area, such as plotting (ax.imshow), setting title and axes (ax.set_xlabel), setting ticks (ax.set_xticks) and so on.
+
+Personally, I feel Matplotlib is less convenient than Matlab. The former requires more manual control in order to create perfect figures.
