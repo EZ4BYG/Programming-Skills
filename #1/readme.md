@@ -8,7 +8,7 @@
 
 <h1 id="中文"> </h1>   <!--! 里面是标题: 可以没有标题 -->
 
-## 在python、jupyter和Matlab中实现动态二维矩阵的绘制
+## 在Python、Jupyter和Matlab中实现动态二维矩阵的绘制
 
 想绘制（在循环中）动态变化的二维矩阵（例如2D热扩散方程的有限差分），不同语言有不同的实现方式。另外，即使同为python，IDE和jupyter notebook的实现方式也不同。
 
