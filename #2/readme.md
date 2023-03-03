@@ -18,6 +18,6 @@
 
 <h1 id="english"> </h1>
 
-## The standard format for plotting with Matplotlib in Python.
+## The standard format for plotting with Matplotlib in Python
 
 test
