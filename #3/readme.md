@@ -8,7 +8,7 @@
 
 <h1 id="中文"> </h1>   <!--!  -->
 
-## Matplotlib中控制colorbar长度和图片宽度一致
+## Matplotlib中控制colorbar高度和图片宽度一致
 
 在Matplotlib中若绘制的图像（以二维矩阵为例）为非正方形，则colorbar的长度非常难控制，需要人为调整才能使得colorbar的高度和figure的宽度一致。网上方法众多，但本文方法最有效、最好理解。
 
@@ -21,7 +21,7 @@
 
 <h1 id="english"> </h1>   <!--!  -->
 
-## Control the length of colorbar to equal the width of the figure in Matplotlib
+## Control the height of colorbar to equal the width of the figure in Matplotlib
 
 If the figure (e.g 2D matrix) is not a square, it will be difficult to control the height of the colorbar. It requires manual adjustments to make sure that the height of the colorbar equals the width of the figure. Many ways are available online, but this example provides the most effective and easy-to-understand one.
 
