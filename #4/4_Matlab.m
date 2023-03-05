@@ -35,7 +35,7 @@ end
 %% 4) Plotting: tiledlayout + nexttile + exportgraphics
 fig = tiledlayout(2, 1, 'TileSpacing', 'Compact', 'Padding', 'tight');  % 2,1 = 2行1列
 % subplot1: stable
-nexttile   % 每开始一个新子图，以该函数开头       
+nexttile   % 每开始一个新子图，以该函数开头。当然子图很多时，可以放在循环里绘制！  
 imagesc(T1);
 colormap('hot'); 
 clb1 = colorbar;
