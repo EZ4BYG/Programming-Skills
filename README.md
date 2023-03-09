@@ -14,6 +14,7 @@
 - [#2](https://github.com/EZ4BYG/Programming-Skills/tree/main/%232) &nbsp; Python中使用Matplotlib绘图的标准格式
 - [#3](https://github.com/EZ4BYG/Programming-Skills/tree/main/%233) &nbsp; Matplotlib中控制colorbar高度和图片宽度一致
 - [#4](https://github.com/EZ4BYG/Programming-Skills/tree/main/%234) &nbsp; 使用Matlab新函数tiledlayout和exportgraphics绘制保存无白边图像
+- [#5](https://github.com/EZ4BYG/Programming-Skills/tree/main/%235) &nbsp; Matlab的colormap使用远古版本的seismic样式
 
 ## 技巧
 
@@ -30,6 +31,7 @@
 - [#2](https://github.com/EZ4BYG/Programming-Skills/tree/main/%232) &nbsp; The standard format for plotting with Matplotlib in Python
 - [#3](https://github.com/EZ4BYG/Programming-Skills/tree/main/%233) &nbsp; Control the height of colorbar to equal the width of the figure in Matplotlib
 - [#4](https://github.com/EZ4BYG/Programming-Skills/tree/main/%234) &nbsp; Use 'tiledlayout' and 'exportgraphics' in Matlab to plot and save image without white space
+- [#5](https://github.com/EZ4BYG/Programming-Skills/tree/main/%235) &nbsp; Matlab's colormap uses the (outdated version) seismic style 
 
 # Tricks
 
